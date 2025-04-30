@@ -10,4 +10,11 @@
     "startSite":"04/28/2025",
     "filingNum":"陇ICP备2024006356号",
     "homeUrl":"http://blog.helong.online"
+    "style":"
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/satouriko/LxgwWenKai_Webfonts@v1.101/dist/LXGWWenKai-Regular.css" />
+<style>
+    * {
+        font-family: LXGWWenKai sans-serif;
+    }
+</style>"
 }
