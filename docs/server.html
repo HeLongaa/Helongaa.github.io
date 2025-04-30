@@ -54,7 +54,7 @@
 ](https://vercel.com/)~~
 。">
 <meta property="og:type" content="article">
-<meta property="og:url" content="https://Helongaa.github.io/server.html">
+<meta property="og:url" content="http://blog.helong.online/server.html">
 <meta property="og:image" content="https://img.helong.online/H.svg">
 <title>服务</title>
 
@@ -91,7 +91,7 @@ body{box-sizing: border-box;min-width: 200px;max-width: 900px;margin: 20px auto;
     <div id="header">
 <h1 class="postTitle">服务</h1>
 <div class="title-right">
-    <a href="https://Helongaa.github.io" id="buttonHome" class="btn btn-invisible circle" title="首页">
+    <a href="http://blog.helong.online" id="buttonHome" class="btn btn-invisible circle" title="首页">
         <svg class="octicon" width="16" height="16">
             <path id="pathHome" fill-rule="evenodd"></path>
         </svg>
@@ -140,8 +140,8 @@ body{box-sizing: border-box;min-width: 200px;max-width: 900px;margin: 20px auto;
 <div class="comments" id="comments"></div>
 
 </div>
-    <div id="footer"><div id="footer1">Copyright © <span id="copyrightYear"></span> <a href="https://Helongaa.github.io">HeLong's Blog</a></div>
-<div id="footer2">
+    <div id="footer"><div id="footer1">Copyright © <span id="copyrightYear"></span> <a href="http://blog.helong.online">HeLong's Blog</a></div>
+<div id="footer2"><span id="filingNum"><a href="https://beian.miit.gov.cn/" target="_blank">陇ICP备2024006356号</a> • </span>
     <span id="runday"></span><span>Powered by <a href="https://meekdai.com/Gmeek.html" target="_blank">Gmeek</a></span>
 </div>
 
@@ -149,8 +149,8 @@ body{box-sizing: border-box;min-width: 200px;max-width: 900px;margin: 20px auto;
 var now=new Date();
 document.getElementById("copyrightYear").innerHTML=now.getFullYear();
 
-if(""!=""){
-    var startSite=new Date("");
+if("04/28/2025"!=""){
+    var startSite=new Date("04/28/2025");
     var diff=now.getTime()-startSite.getTime();
     var diffDay=Math.floor(diff/(1000*60*60*24));
     document.getElementById("runday").innerHTML="网站运行"+diffDay+"天"+" • ";
