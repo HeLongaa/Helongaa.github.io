@@ -1,2 +1,22 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>HeLong's Blog</title><link>https://Helongaa.github.io</link><description>Face life with hope.</description><copyright>HeLong's Blog</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://img.helong.online/H.svg</url><title>avatar</title><link>https://Helongaa.github.io</link></image><lastBuildDate>Wed, 30 Apr 2025 02:53:20 +0000</lastBuildDate><managingEditor>HeLong's Blog</managingEditor><ttl>60</ttl><webMaster>HeLong's Blog</webMaster><item><title>服务</title><link>https://Helongaa.github.io/post/fu-wu.html</link><description>服务列表。</description><guid isPermaLink="true">https://Helongaa.github.io/post/fu-wu.html</guid><pubDate>Wed, 30 Apr 2025 02:52:52 +0000</pubDate></item><item><title>关于</title><link>https://Helongaa.github.io/post/guan-yu.html</link><description>About。</description><guid isPermaLink="true">https://Helongaa.github.io/post/guan-yu.html</guid><pubDate>Wed, 30 Apr 2025 02:52:09 +0000</pubDate></item><item><title>测试文章</title><link>https://Helongaa.github.io/post/ce-shi-wen-zhang.html</link><description># 测试文章。</description><guid isPermaLink="true">https://Helongaa.github.io/post/ce-shi-wen-zhang.html</guid><pubDate>Wed, 30 Apr 2025 02:27:38 +0000</pubDate></item></channel></rss>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>HeLong's Blog</title><link>https://Helongaa.github.io</link><description>Face life with hope.</description><copyright>HeLong's Blog</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://img.helong.online/H.svg</url><title>avatar</title><link>https://Helongaa.github.io</link></image><lastBuildDate>Wed, 30 Apr 2025 03:21:33 +0000</lastBuildDate><managingEditor>HeLong's Blog</managingEditor><ttl>60</ttl><webMaster>HeLong's Blog</webMaster><item><title>服务</title><link>https://Helongaa.github.io/post/fu-wu.html</link><description># 提供给个人或少量使用的服务列表，做以备份
+
+所有服务搭建在
+
+1. 云南昆明电信4C4G服务器
+2. [Oracle服务器](https://www.oracle.com/)
+3. Vercel
+
+[服务器提供商](https://idcyou.cn/)
+- [大模型API服务](https://api.helong.online/)-使用开源项目[New-API](https://github.com/QuantumNous/new-api)
+- [OpenWebUI](https://ai.helong.online/)-使用开源项目[OpenWebUI](https://openwebui.com/)
+- Tailscale Derp-Tailscale异地组网IPv4中继节点
+- [ZeroTier](https://zerotier.helong.online/)-Zerotier异地组网中继服务
+- Docker加速-部署在Oracle服务器的Docker加速镜像
+    域名为：*.040720.xyz
+    ![docker](https://github.com/user-attachments/assets/aa1a31d8-a733-49db-8f84-d3581b740be7)
+- [GeminiAPI](https://gemini.040720.xyz/)-使用开源项目[Gemini-Balance
+](https://github.com/snailyp/gemini-balance)
+- ~~[GPT-API](https://gpt.040720.xyz/)-部署于[Vercel
+](https://vercel.com/)~~
+。</description><guid isPermaLink="true">https://Helongaa.github.io/post/fu-wu.html</guid><pubDate>Wed, 30 Apr 2025 02:52:52 +0000</pubDate></item><item><title>关于</title><link>https://Helongaa.github.io/post/guan-yu.html</link><description>About。</description><guid isPermaLink="true">https://Helongaa.github.io/post/guan-yu.html</guid><pubDate>Wed, 30 Apr 2025 02:52:09 +0000</pubDate></item><item><title>测试文章</title><link>https://Helongaa.github.io/post/ce-shi-wen-zhang.html</link><description># 测试文章。</description><guid isPermaLink="true">https://Helongaa.github.io/post/ce-shi-wen-zhang.html</guid><pubDate>Wed, 30 Apr 2025 02:27:38 +0000</pubDate></item></channel></rss>
