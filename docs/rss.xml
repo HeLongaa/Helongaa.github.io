@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>HeLong's Blog</title><link>http://blog.helong.online</link><description>Face life with hope.</description><copyright>HeLong's Blog</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://img.helong.online/H.svg</url><title>avatar</title><link>http://blog.helong.online</link></image><lastBuildDate>Wed, 07 May 2025 08:12:22 +0000</lastBuildDate><managingEditor>HeLong's Blog</managingEditor><ttl>60</ttl><webMaster>HeLong's Blog</webMaster><item><title>服务器挂载数据盘及Docker默认存储位置修改</title><link>http://blog.helong.online/post/4.html</link><description>docker技术日益普遍，我的项目大多数都使用docker运行，这极大的方便了部署与维护。</description><guid isPermaLink="true">http://blog.helong.online/post/4.html</guid><pubDate>Sat, 03 May 2025 01:48:30 +0000</pubDate></item><item><title>关于</title><link>http://blog.helong.online/about.html</link><description>## About the blog
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>HeLong's Blog</title><link>http://blog.helong.online</link><description>Face life with hope.</description><copyright>HeLong's Blog</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://img.helong.online/H.svg</url><title>avatar</title><link>http://blog.helong.online</link></image><lastBuildDate>Wed, 07 May 2025 08:14:34 +0000</lastBuildDate><managingEditor>HeLong's Blog</managingEditor><ttl>60</ttl><webMaster>HeLong's Blog</webMaster><item><title>服务器挂载数据盘及Docker默认存储位置修改</title><link>http://blog.helong.online/post/4.html</link><description>docker技术日益普遍，我的项目大多数都使用docker运行，这极大的方便了部署与维护。</description><guid isPermaLink="true">http://blog.helong.online/post/4.html</guid><pubDate>Sat, 03 May 2025 01:48:30 +0000</pubDate></item><item><title>关于</title><link>http://blog.helong.online/about.html</link><description>## About the blog
 Thank you for visiting my blog anyway.
 
 This blog is established and maintained to record my study and daily life.
@@ -9,31 +9,6 @@ I wish every visitor inspired if confused, and enlightened if frustrated.
 **If you have any questions, please feel free to contact me. I am happy to be your friend.**
 
 ## About me
-`Gmeek-html&lt;div style='font-size:0;'&gt;
-    &lt;img 
-      src='https://github.com/user-attachments/assets/dcd5add6-5ddf-4b9a-9d03-d51dd9cf6cfe' 
-      alt='图片1' 
-      style='
-        width: 300px;
-        height: 200px;
-        display: inline-block;
-        vertical-align: top;
-        object-fit: cover;
-        margin-right: 10px;
-      '
-    &gt;&lt;!--
- --&gt;&lt;img 
-      src='https://github.com/user-attachments/assets/239b5844-0233-46ee-9b0e-0f28659ce4ab' 
-      alt='图片2' 
-      style='
-        width: 300px;
-        height: 200px;
-        display: inline-block;
-        vertical-align: top;
-        object-fit: cover;
-      '
-    &gt;
-  &lt;/div&gt;`
 
 I am currently pursuing a bachelor's degree in Computer Science (CS) at [Yunnan University.](https://www.ynu.edu.cn/).
 
