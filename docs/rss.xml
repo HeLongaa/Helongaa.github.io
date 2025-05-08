@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>HeLong's Blog</title><link>http://blog.helong.online</link><description>Face life with hope.</description><copyright>HeLong's Blog</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://img.helong.online/H.svg</url><title>avatar</title><link>http://blog.helong.online</link></image><lastBuildDate>Thu, 08 May 2025 07:17:54 +0000</lastBuildDate><managingEditor>HeLong's Blog</managingEditor><ttl>60</ttl><webMaster>HeLong's Blog</webMaster><item><title>服务器挂载数据盘及Docker默认存储位置修改</title><link>http://blog.helong.online/post/4.html</link><description>docker技术日益普遍，我的项目大多数都使用docker运行，这极大的方便了部署与维护。</description><guid isPermaLink="true">http://blog.helong.online/post/4.html</guid><pubDate>Sat, 03 May 2025 01:48:30 +0000</pubDate></item><item><title>About</title><link>http://blog.helong.online/about.html</link><description>## About the blog
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>HeLong's Blog</title><link>http://blog.helong.online</link><description>Face life with hope.</description><copyright>HeLong's Blog</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://img.helong.online/H.svg</url><title>avatar</title><link>http://blog.helong.online</link></image><lastBuildDate>Thu, 08 May 2025 08:02:22 +0000</lastBuildDate><managingEditor>HeLong's Blog</managingEditor><ttl>60</ttl><webMaster>HeLong's Blog</webMaster><item><title>服务器挂载数据盘及Docker默认存储位置修改</title><link>http://blog.helong.online/post/4.html</link><description>docker技术日益普遍，我的项目大多数都使用docker运行，这极大的方便了部署与维护。</description><guid isPermaLink="true">http://blog.helong.online/post/4.html</guid><pubDate>Sat, 03 May 2025 01:48:30 +0000</pubDate></item><item><title>About</title><link>http://blog.helong.online/about.html</link><description>## About the blog
 Thank you for visiting my blog anyway.
 
 This blog is established and maintained to record my study and daily life.
@@ -67,12 +67,49 @@ My Domain:
 - ~~[GPT-API](https://gpt.040720.xyz/)-部署于[Vercel
 ](https://vercel.com/)~~
 - [新闻聚合站](https://news.helong.online/)-部署于CloudflarePages
-。</description><guid isPermaLink="true">http://blog.helong.online/server.html</guid><pubDate>Wed, 30 Apr 2025 02:52:52 +0000</pubDate></item><item><title>Links</title><link>http://blog.helong.online/link.html</link><description>`Gmeek-html&lt;div style='display: flex; justify-content: center;'&gt;&lt;img src='https://img.paulzzh.com/touhou/random' style='border-radius:15px; width: 90%;'&gt;&lt;/div&gt;`
+。</description><guid isPermaLink="true">http://blog.helong.online/server.html</guid><pubDate>Wed, 30 Apr 2025 02:52:52 +0000</pubDate></item><item><title>Links</title><link>http://blog.helong.online/link.html</link><description>`Gmeek-html&lt;div style='display: flex; justify-content: center;'&gt;&lt;img src='https://img.paulzzh.com/touhou/random' style='border-radius:20px; width: 90%;'&gt;&lt;/div&gt;`
 
 **Some interesting or useful links are recorded here.**
 
 1. ### Service Providers
-    `Gmeek-html&lt;i class='fa-brands fa-cloudflare'&gt;&lt;/i&gt;`
-3. ### My Services
-4. ### Friends
-5. ### 。</description><guid isPermaLink="true">http://blog.helong.online/link.html</guid><pubDate>Thu, 08 May 2025 07:11:28 +0000</pubDate></item></channel></rss>
+
+    `Gmeek-html&lt;i class='fa-brands fa-cloudflare'&gt;&lt;/i&gt;` [CloudFlare](https://www.cloudflare.com/zh-cn/) - Provide global DNS services for all projects.
+    `Gmeek-html&lt;i class='fa-solid fa-cloud'&gt;&lt;/i&gt;` [IDC-You](https://idcyou.cn/) - Provide high availability cloud server for the project (Kunming, Yunnan, China).
+    `Gmeek-html&lt;i class='fa-solid fa-server'&gt;&lt;/i&gt;` [Claw.cloud](https://claw.cloud/) - Providing cloud infrastructure for projects.
+    `Gmeek-html&lt;i class='fa-solid fa-server'&gt;&lt;/i&gt;` [Oracle](https://www.oracle.com/) - Provides comprehensive integrated cloud platform and cloud services, focusing on innovative software as a service (SaaS), platform as a service (PaaS), infrastructure as a service (IaaS) and data as a service (DaaS) technologies.
+    `Gmeek-html&lt;i class='fa-solid fa-square-caret-up'&gt;&lt;/i&gt;` [Vercel](https://vercel.com/) - Provide a cloud service platform for the project, supporting application deployment, preview and launch of static and dynamic websites.
+    `Gmeek-html&lt;i class='fa-brands fa-github'&gt;&lt;/i&gt;` [Github](https://github.com/) - An online software source code hosting service platform for publicizing the code of programs or software, and using Github Pages to host blog programs.
+
+2. ### My Services
+
+    |  Name  | Link  | Online time |
+    |  ----  |  ----  | ---- |
+    |  Homepage  | [https://helong.online/](https://helong.online/) | 2025/04/25 |
+    |  Blog  | [https://blog.helong.online/](https://blog.helong.online/) | 2025/04/25 |
+    |  AI Server  | [https://ai.helong.online/](https://ai.helong.online/) | 2025/04/25 |
+    |  My API  | [https://api.helong.online/](https://api.helong.online/) | 2025/04/20 |
+    |  Gemini-Reverse Proxy  | [https://gemini.040720.xyz/](https://gemini.040720.xyz/) | 2025/04/19 |
+    |  Docker-Reverse Proxy  | [https://blog.helong.online/](https://blog.helong.online/) | 2025/04/20 |
+
+3. ### Friends
+    |  Name  | Link  | Online time |
+    |  ----  |  ----  | ---- |
+    |  ...  | ... | ... |
+5. ### Tips
+
+    Friend link application requirements:
+    ✅ The website can be accessed normally
+    ✅ The website type is a personal blog
+    ✅ The website needs to include this site's friend link
+    ❌ Commercial sites or sites containing intrusive advertisements are not accepted
+    ❌ Sites that violate the laws and regulations of the People's Republic of China are not accepted
+
+    If you meet the above conditions, you can leave your friend link information in the comment area of ​​this page
+
+    ```
+    - name: HeLong's Blog
+    - url: https://blog.helong.online/
+    - avatar: https://avatars.githubusercontent.com/u/71657914?v=4?v=3&amp;s=88
+    - desc: Face life with hope.
+    ```
+    Remember to add this site before applying。</description><guid isPermaLink="true">http://blog.helong.online/link.html</guid><pubDate>Thu, 08 May 2025 07:11:28 +0000</pubDate></item></channel></rss>
