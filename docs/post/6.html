@@ -86,29 +86,26 @@ body{box-sizing: border-box;min-width: 200px;max-width: 900px;margin: 20px auto;
 <div class="markdown-body" id="postBody"><p>由于某些原因，Docker Hub官方仓库在国内无法拉取，国内网络环境，需要配置镜像使用，从而解决Docker镜像拉取失败或缓慢问题。通过自建Docker镜像加速服务，提高Docker使用体验。</p>
 <p><strong>使用开源项目<a href="https://github.com/dqzboy/Docker-Proxy/">Docker-Proxy</a></strong></p>
 <h3>📝 你需要</h3>
-<pre class="notranslate"><code class="notranslate">- 一台国外服务器，并且未被墙。
-- 域名，无需进行国内备案。
-🚀 如果你没有以上条件，那么你也可以试试使用第三方免费容器部署服务 [ClawCloud](https://claw.cloud/) 
-⚠️ Clawcloud免费账户流量为 10GB/Mo ，酌情使用
-</code></pre>
+<ul>
+<li>一台国外服务器，并且未被墙。</li>
+<li>域名，无需进行国内备案。<br>
+🚀 如果你没有以上条件，那么你也可以试试使用第三方免费容器部署服务 <a href="https://claw.cloud/" rel="nofollow">ClawCloud</a><br>
+<g-emoji class="g-emoji" alias="warning">⚠️</g-emoji> Clawcloud免费账户流量为 10GB/Mo ，酌情使用</li>
+</ul>
 <h3>📦 部署</h3>
-<pre class="notranslate"><code class="notranslate">```
-# CentOS &amp;&amp; RHEL &amp;&amp; Rocky
+<pre class="notranslate"><code class="notranslate"># CentOS &amp;&amp; RHEL &amp;&amp; Rocky
 yum -y install curl
 
 # ubuntu &amp;&amp; debian
 apt -y install curl
 
 bash -c "$(curl -fsSL https://raw.githubusercontent.com/dqzboy/Docker-Proxy/main/install/DockerProxy_Install.sh)"
-```
-
-![Image](https://github.com/user-attachments/assets/9cad509f-0791-43b0-91a8-b680736fe281)
 </code></pre>
+<p><a target="_blank" rel="noopener noreferrer" href="https://github.com/user-attachments/assets/9cad509f-0791-43b0-91a8-b680736fe281"><img src="https://github.com/user-attachments/assets/9cad509f-0791-43b0-91a8-b680736fe281" alt="Image" style="max-width: 100%;"></a></p>
 <h3>💊 使用</h3>
-<pre class="notranslate"><code class="notranslate">域名替换配置如下：
-![Image](https://github.com/user-attachments/assets/0e4854a6-2fab-4880-8f5f-9ea5b96c6fc3)
-`*.040720.xyz` 为我自己部署的加速服务，使用Oracle🇺🇸服务器
-</code></pre></div>
+<p>域名替换配置如下：<br>
+<a target="_blank" rel="noopener noreferrer" href="https://github.com/user-attachments/assets/0e4854a6-2fab-4880-8f5f-9ea5b96c6fc3"><img src="https://github.com/user-attachments/assets/0e4854a6-2fab-4880-8f5f-9ea5b96c6fc3" alt="Image" style="max-width: 100%;"></a></p>
+<p>*.040720.xyz 为我自己部署的加速服务，使用Oracle🇺🇸服务器</p></div>
 <div style="font-size:small;margin-top:8px;float:right;"></div>
 
 <button class="btn btn-block" type="button" onclick="openComments()" id="cmButton">评论</button>
