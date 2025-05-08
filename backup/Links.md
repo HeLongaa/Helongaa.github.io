@@ -20,7 +20,7 @@
     |  AI Server  | [https://ai.helong.online/](https://ai.helong.online/) | 2025/04/25 |
     |  My API  | [https://api.helong.online/](https://api.helong.online/) | 2025/04/20 |
     |  Gemini-Reverse Proxy  | [https://gemini.040720.xyz/](https://gemini.040720.xyz/) | 2025/04/19 |
-    |  Docker-Reverse Proxy  | [https://blog.helong.online/](https://blog.helong.online/) | 2025/04/20 |
+    |  Docker-Reverse Proxy  | [https://blog.helong.online/](https://blog.helong.online/post/6.html) | 2025/04/20 |
 
 3. ### Friends
     |  Name  | Link  | Online time |
